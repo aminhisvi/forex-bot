@@ -1,2 +1,1 @@
-[deploy]
-startCommand = "python forex_news_bot.py"
+startCommand = "python smart_trading_bot.py"
