@@ -1,1 +1,2 @@
+[deploy]
 startCommand = "python smart_trading_bot.py"
